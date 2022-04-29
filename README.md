@@ -16,5 +16,5 @@
  #### You can always count on me when you need to express yourself
  ##### My positive contribution could be support and organization 
  ##### When I was a kid i had a parrot in my house as a pet and one day set him free, when my mom realized it what I did she got mad at me, then at night the parrot just came back home. My mom and me laughed.
- ###### never set free your pet. it is not cool :/ 
- [<<previous||Miguel-Palacios||next>>]
+ ###### never set your pet free. it is not cool :/ 
+ <<[previous](https://github.com/MrOlivierdA)||[Miguel-Palacios](https://github.com/Palacios97) ||[next]((https://github.com/QuentinMotte)>>
