@@ -17,4 +17,4 @@
  ##### My positive contribution could be support and organization 
  ##### When I was a kid i had a parrot in my house as a pet and one day set him free, when my mom realized it what I did she got mad at me, then at night the parrot just came back home. My mom and me laughed.
  ###### never set your pet free. it is not cool :/ 
- <<[previous](https://github.com/MrOlivierdA)||[Miguel-Palacios](https://github.com/Palacios97) ||[next]((https://github.com/QuentinMotte)>>
+ <<[previous](https://github.com/MrOlivierdA)||[Miguel-Palacios](https://github.com/Palacios97)||[next](https://github.com/QuentinMotte)>>
